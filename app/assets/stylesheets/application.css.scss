@@ -15,7 +15,9 @@
  */
 
 @import 'bootstrap-sprockets';
+@import "font-awesome-sprockets";
 @import 'bootstrap';
+@import "font-awesome";
 
 // Background gradient
 .home-callout, .navbar {
